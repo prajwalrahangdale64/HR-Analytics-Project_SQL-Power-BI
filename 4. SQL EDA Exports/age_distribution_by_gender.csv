@@ -1,0 +1,16 @@
+"age_group","gender","employee_count"
+"20s","Female",1430
+"20s","Male",1592
+"20s","Non-Conforming",79
+"30s","Female",2368
+"30s","Male",2513
+"30s","Non-Conforming",145
+"40s","Female",2152
+"40s","Male",2562
+"40s","Non-Conforming",133
+"50s","Female",2360
+"50s","Male",2484
+"50s","Non-Conforming",131
+"60+","Female",145
+"60+","Male",177
+"60+","Non-Conforming",14
