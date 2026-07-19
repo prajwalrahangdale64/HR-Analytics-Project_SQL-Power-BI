@@ -1,4 +1,4 @@
-# HR Analytics Project (SQL + Power BI)
+### HR Analytics Project (SQL + Power BI)
 
 An end-to-end HR Analytics project that uses PostgreSQL for database creation, data cleaning, and exploratory data analysis (EDA), followed by Power BI for interactive dashboard development and business insights.
 
@@ -6,7 +6,7 @@ The project analyzes over **22,000 employee records** to provide insights into w
 
 ---
 
-# Project Overview
+### Project Overview
 
 This project follows the complete data analytics workflow:
 
@@ -20,7 +20,7 @@ This project follows the complete data analytics workflow:
 
 ---
 
-# Tools & Technologies
+### Tools & Technologies
 
 - PostgreSQL
 - Power BI Desktop
@@ -29,7 +29,7 @@ This project follows the complete data analytics workflow:
 
 ---
 
-# Dataset
+### Dataset
 
 - HR Employee Dataset
 - 22,000+ employee records
@@ -37,7 +37,7 @@ This project follows the complete data analytics workflow:
 
 ---
 
-# Business Questions
+### Business Questions
 
 1. What is the average employee tenure?
 2. What is the gender distribution of employees?
@@ -55,7 +55,7 @@ This project follows the complete data analytics workflow:
 
 ---
 
-# Key Findings
+### Key Findings
 
 - The average employee tenure is **7.91 years**.
 - Male employees slightly outnumber female employees.
@@ -71,7 +71,7 @@ This project follows the complete data analytics workflow:
 
 ---
 
-# Project Structure
+### Project Structure
 
 ```text
 HR-Analytics-Project_SQL-Power-BI/
