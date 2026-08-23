@@ -14,7 +14,7 @@ This project follows the complete data analytics workflow:
 - Create the database and tables
 - Clean and prepare the data using PostgreSQL
 - Perform Exploratory Data Analysis (EDA) using SQL queries
-- Export SQL query results
+- Export SQL query results and import them into Power BI
 - Build an interactive Power BI dashboard
 - Generate business insights
 
